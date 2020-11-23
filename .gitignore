@@ -1,0 +1,12 @@
+
+.vs/genericityCpp/v16/
+
+Debug/
+
+*.sln
+
+*.vcxproj
+
+*.filters
+
+*.user
